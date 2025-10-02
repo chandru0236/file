@@ -4,7 +4,7 @@ class mul{
 
 
     
-        int a=12;
+        int a=14;
 
          
 
